@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well, hello there 👋
 ## Trying to make the ones and zeroes a little more useful for everyone.
 
 - 🔭 I’m currently working on: [/now](https://grantblakeman.com/now)

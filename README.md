@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Trying to make the ones and zeroes a little more useful for everyone. (he | him)
+
+- 🔭 I’m currently working on: [grantblakeman.com/now](https://grantblakeman.com/now)
+- 🌱 I’m currently learning: [Three Things](https://grantblakeman.com/now/#three-things)
+- 📫 How to reach me: [grantblakeman.com](https://grantblakeman.com)
+- 😄 Pronouns: he | him
+
+![gblakeman’s github stats](https://github-readme-stats.vercel.app/api?username=gblakeman&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)
+
 <!--
 **gblakeman/gblakeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

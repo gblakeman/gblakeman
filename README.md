@@ -2,7 +2,7 @@
 
 Trying to make the ones and zeroes a little more useful for everyone. (he | him)
 
-- 🔭 I’m currently working on: [grantblakeman.com/now](https://grantblakeman.com/now)
+- 🔭 I’m currently working on: [/now](https://grantblakeman.com/now)
 - 🌱 I’m currently learning: [Three Things](https://grantblakeman.com/now/#three-things)
 - 📫 How to reach me: [grantblakeman.com](https://grantblakeman.com)
 - 😄 Pronouns: he | him

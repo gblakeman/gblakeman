@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: [/now](https://grantblakeman.com/now)
 - 🌱 I’m currently learning: [Three Things](https://grantblakeman.com/now/#three-things)
 -->
-- 🔭 I’m currently working tools for designers at LinkedIn
+- 🔭 I’m currently working on tools for designers at LinkedIn
 - 📫 How to reach me: [grantblakeman.com](https://grantblakeman.com)
 - 😄 Pronouns: he | him
 

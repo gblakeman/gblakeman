@@ -5,9 +5,10 @@
 - 🔭 I’m currently working on: [/now](https://grantblakeman.com/now)
 - 🌱 I’m currently learning: [Three Things](https://grantblakeman.com/now/#three-things)
 -->
-- 🔭 I’m currently working on tools for designers at LinkedIn
+- 🧰 I’m currently working on tools for designers at [LinkedIn](https://linkedin.com)
+- 🚀 Previously, I ran a small studio for my work under the name [Interdiscipline](https://interdiscipline.com)
 - 📫 How to reach me: [grantblakeman.com](https://grantblakeman.com)
-- 😄 Pronouns: he | him
+- 💁🏻‍♂️ Pronouns: he | him
 
 ![gblakeman’s github stats](https://github-readme-stats.vercel.app/api?username=gblakeman&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)
 

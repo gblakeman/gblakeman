@@ -10,9 +10,9 @@
 - 📫 How to reach me: [grantblakeman.com](https://grantblakeman.com)
 - 💁🏻‍♂️ Pronouns: he | him
 
+<!--
 ![gblakeman’s github stats](https://github-readme-stats.vercel.app/api?username=gblakeman&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)
 
-<!--
 **gblakeman/gblakeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

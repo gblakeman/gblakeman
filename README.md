@@ -1,7 +1,7 @@
 ### Well, hello there 👋
 ## Trying to make the ones and zeroes a little more useful for everyone.
 
-- 🔭 I’m currently working on: [/now](https://grantblakeman.com/now)
+- 🔭 I’m currently focusing on: [/now](https://grantblakeman.com/now)
 - 🌱 I’m currently learning: [3 Things](https://grantblakeman.com/three-things)
 - 🧰 I’m currently working on tools for designers at [LinkedIn](https://www.linkedin.com/in/grantblakeman)
 - 🚀 Previously, I ran a small studio for my work under the name [Interdiscipline](https://interdiscipline.com)
